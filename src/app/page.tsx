@@ -41,6 +41,7 @@ export default function Home() {
           <h1 className="text-2xl font-bold tracking-tight text-lime-500">
             {">"}privete_chatter
           </h1>
+          <p>A private self destructing chat-room</p>
         </div>
         <div className="border border-zinc-800 bg-zinc-900/50 p-6 backdrop-blur-md">
           <div className="space-y-5">
